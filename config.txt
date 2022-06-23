@@ -1,0 +1,2 @@
+system = Ubuntu18.04
+url = https://gitee.com
